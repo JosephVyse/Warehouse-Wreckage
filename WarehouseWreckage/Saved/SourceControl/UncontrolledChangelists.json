@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/MainMap.umap",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Blueprints/BP_Barrel.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/StarterContent/Blueprints/BP_Projectile.uasset",
+				"D:/Unreal Engine Project/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
